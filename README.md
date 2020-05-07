@@ -24,10 +24,11 @@ Bugs and Feature requests should be reported in the
 
 ## Credits
 
+- Ported to Backdrop by docwilmot and indigoxela
 - Maintainer for the Drupal module: Jose A. Reyero.
 
 ## License
 
 This project is GPL v2 software.
-See the [LICENSE.txt](https://github.com/backdrop-contrib/i18n/blob/1.x-1.x/LICENSE.txt) 
+See the [LICENSE.txt](https://github.com/backdrop-contrib/i18n_forum/blob/1.x-1.x/LICENSE.txt)
 file in this directory for complete text.
